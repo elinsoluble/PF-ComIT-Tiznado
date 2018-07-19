@@ -98,6 +98,10 @@ div:focus { outline: none !important; }
     color:white;
 }
 
+.pagination li.active{
+    background-color: #3F51B5;
+}
+
 .disabled {
     pointer-events: none !important;
 }
