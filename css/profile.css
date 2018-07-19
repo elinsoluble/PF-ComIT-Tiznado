@@ -1,0 +1,48 @@
+body{ background-color: #212121; }
+nav { margin-bottom: 3%; }
+
+img{
+    width: 12em;
+    height: 9em;
+    border-radius: 50%;
+}
+
+.container{
+    width: 90% !important;
+}
+
+.contorno{
+    background-color: transparent;
+    border: 2px solid gray;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+#postulaciones{
+    padding-bottom: 2em !important;
+}
+
+.contorno h4{
+    color: #e74c3c;
+}
+
+.titulo{
+    margin: -20px 0px 0px -20px;
+    position: absolute;
+}
+
+.form-title{
+    color:#03A9F4   
+}
+
+.red-text{
+    color:#F44336;
+}
+
+.yellow-text{
+    color:#FFC107;
+}
+
+.green-text{
+    color:#4CAF50;
+}
